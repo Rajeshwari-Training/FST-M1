@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-19T21:07:25 IST" name="JobBoard" finished-at="2021-05-19T21:09:05 IST" duration-ms="99963">
+    <groups>
+    </groups>
+    <test started-at="2021-05-19T21:07:25 IST" name="Test" finished-at="2021-05-19T21:09:05 IST" duration-ms="99963">
+      <class name="Activities.Activity3">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Activities.Activity3@4a7f959b]" started-at="2021-05-19T21:07:33 IST" name="beforeMethod" finished-at="2021-05-19T21:07:40 IST" duration-ms="6201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="printImageURL()[pri:0, instance:Activities.Activity3@4a7f959b]" started-at="2021-05-19T21:07:40 IST" name="printImageURL" finished-at="2021-05-19T21:07:40 IST" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printImageURL -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Activities.Activity3@4a7f959b]" started-at="2021-05-19T21:07:40 IST" name="afterMethod" finished-at="2021-05-19T21:07:41 IST" duration-ms="1359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Activities.Activity3 -->
+      <class name="Activities.Activity2">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Activities.Activity2@429bffaa]" started-at="2021-05-19T21:07:41 IST" name="beforeMethod" finished-at="2021-05-19T21:07:48 IST" duration-ms="6379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyWebsiteHeading()[pri:0, instance:Activities.Activity2@429bffaa]" started-at="2021-05-19T21:07:48 IST" name="verifyWebsiteHeading" finished-at="2021-05-19T21:07:48 IST" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWebsiteHeading -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Activities.Activity2@429bffaa]" started-at="2021-05-19T21:07:48 IST" name="afterMethod" finished-at="2021-05-19T21:07:49 IST" duration-ms="1247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Activities.Activity2 -->
+      <class name="Activities.Activity1">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Activities.Activity1@625732]" started-at="2021-05-19T21:07:25 IST" name="beforeMethod" finished-at="2021-05-19T21:07:32 IST" duration-ms="7420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyWebsiteTitle()[pri:0, instance:Activities.Activity1@625732]" started-at="2021-05-19T21:07:32 IST" name="verifyWebsiteTitle" finished-at="2021-05-19T21:07:32 IST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWebsiteTitle -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Activities.Activity1@625732]" started-at="2021-05-19T21:07:32 IST" name="afterMethod" finished-at="2021-05-19T21:07:33 IST" duration-ms="1365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Activities.Activity1 -->
+      <class name="Activities.Activity7">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Activities.Activity7@7e5afaa6]" started-at="2021-05-19T21:08:06 IST" name="beforeMethod" finished-at="2021-05-19T21:08:13 IST" duration-ms="6363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ncreateNewJobListing()[pri:0, instance:Activities.Activity7@7e5afaa6]" started-at="2021-05-19T21:08:13 IST" name="ncreateNewJobListing" finished-at="2021-05-19T21:08:24 IST" duration-ms="11867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ncreateNewJobListing -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Activities.Activity7@7e5afaa6]" started-at="2021-05-19T21:08:24 IST" name="afterMethod" finished-at="2021-05-19T21:08:26 IST" duration-ms="1151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Activities.Activity7 -->
+      <class name="Activities.Activity6">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Activities.Activity6@63a12c68]" started-at="2021-05-19T21:08:26 IST" name="beforeMethod" finished-at="2021-05-19T21:08:32 IST" duration-ms="6399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="applyToAJob()[pri:0, instance:Activities.Activity6@63a12c68]" started-at="2021-05-19T21:08:32 IST" name="applyToAJob" finished-at="2021-05-19T21:08:34 IST" duration-ms="2429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyToAJob -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Activities.Activity6@63a12c68]" started-at="2021-05-19T21:08:34 IST" name="afterMethod" finished-at="2021-05-19T21:08:36 IST" duration-ms="1313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Activities.Activity6 -->
+      <class name="Activities.Activity5">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Activities.Activity5@5403f35f]" started-at="2021-05-19T21:07:49 IST" name="beforeMethod" finished-at="2021-05-19T21:07:56 IST" duration-ms="7293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="navugateToOtherPage()[pri:0, instance:Activities.Activity5@5403f35f]" started-at="2021-05-19T21:07:56 IST" name="navugateToOtherPage" finished-at="2021-05-19T21:07:57 IST" duration-ms="721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navugateToOtherPage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Activities.Activity5@5403f35f]" started-at="2021-05-19T21:07:57 IST" name="afterMethod" finished-at="2021-05-19T21:07:58 IST" duration-ms="1322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Activities.Activity5 -->
+      <class name="Activities.Activity4">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Activities.Activity4@483f6d77]" started-at="2021-05-19T21:07:58 IST" name="beforeMethod" finished-at="2021-05-19T21:08:05 IST" duration-ms="6501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyWebsiteSecondHeading()[pri:0, instance:Activities.Activity4@483f6d77]" started-at="2021-05-19T21:08:05 IST" name="verifyWebsiteSecondHeading" finished-at="2021-05-19T21:08:05 IST" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWebsiteSecondHeading -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Activities.Activity4@483f6d77]" started-at="2021-05-19T21:08:05 IST" name="afterMethod" finished-at="2021-05-19T21:08:06 IST" duration-ms="1346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Activities.Activity4 -->
+      <class name="Activities.Activity9">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Activities.Activity9@48f278eb]" started-at="2021-05-19T21:08:36 IST" name="beforeMethod" finished-at="2021-05-19T21:08:42 IST" duration-ms="6483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="createJobUsingBackend()[pri:0, instance:Activities.Activity9@48f278eb]" started-at="2021-05-19T21:08:42 IST" name="createJobUsingBackend" finished-at="2021-05-19T21:08:53 IST" duration-ms="10999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createJobUsingBackend -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Activities.Activity9@48f278eb]" started-at="2021-05-19T21:08:53 IST" name="afterMethod" finished-at="2021-05-19T21:08:55 IST" duration-ms="1581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Activities.Activity9 -->
+      <class name="Activities.Activity8">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Activities.Activity8@2f217633]" started-at="2021-05-19T21:08:55 IST" name="beforeMethod" finished-at="2021-05-19T21:09:02 IST" duration-ms="6830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="websiteFromBackend()[pri:0, instance:Activities.Activity8@2f217633]" started-at="2021-05-19T21:09:02 IST" name="websiteFromBackend" finished-at="2021-05-19T21:09:03 IST" duration-ms="1679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- websiteFromBackend -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Activities.Activity8@2f217633]" started-at="2021-05-19T21:09:03 IST" name="afterMethod" finished-at="2021-05-19T21:09:05 IST" duration-ms="1337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Activities.Activity8 -->
+    </test> <!-- Test -->
+  </suite> <!-- JobBoard -->
+</testng-results>
